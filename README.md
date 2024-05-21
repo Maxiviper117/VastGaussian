@@ -1,4 +1,4 @@
-# VastGaussian
+# VastGaussian (English Translation)
 
 This is an unofficial implementation of `VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction`. Since this is my first attempt at recreating the entire code from scratch, there might be some errors, and my coding style may seem somewhat naive compared to experts, lacking some engineering techniques. However, I have taken my first step because I couldn't find any implementation of VastGaussian online, so I gave it a try.
 
